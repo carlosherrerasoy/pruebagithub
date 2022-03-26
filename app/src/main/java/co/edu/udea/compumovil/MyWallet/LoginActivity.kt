@@ -1,4 +1,4 @@
-package co.edu.udea.compumovil.pruebagithub
+package co.edu.udea.compumovil.MyWallet
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
